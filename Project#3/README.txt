@@ -1,4 +1,4 @@
-##ReadMe –Synchronization   
+ReadMe –Synchronization   
 
 1. Write Peroxide.java   
 In this lab, Create a new file called Peroxide.java. The atomic for-mula for Hydrogen Peroxide is H2O2. Write a synchronization program to generate Hydrogen Peroxide molecules. Based on JNachosLab2Solution.   
