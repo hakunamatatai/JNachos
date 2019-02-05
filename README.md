@@ -25,4 +25,3 @@ Send answer copies an answer into a buffer in which a message has been received 
 Wait message delays the requesting process until a message arrives in its queue.
 4. SC_WaitAnswer: A synchronized system call. 
 Wait answer delays the requesting process until an answer arrives in a given buffer.
-
